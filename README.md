@@ -14,7 +14,8 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 - 🌱 &nbsp;
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes-)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 - 🌐 &nbsp;
