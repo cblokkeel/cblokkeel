@@ -11,13 +11,13 @@
 
 - 💻 &nbsp;
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
-- 🌱 &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+- 🌱 &nbsp;
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
