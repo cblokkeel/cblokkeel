@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Software Engineering with love.
-- 💼 &nbsp; Working as a Fullstack Software Engineer for [Auchan](https://auchan.fr).
+- 💼 &nbsp; Working as a Fullstack Software Engineer for [Pingflow](https://www.pingflow.com/).
 - 🎓 &nbsp; Studied Computer Science at Université de Lille.
 - 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design.
 
@@ -23,7 +23,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt.js)
+  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
   ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
