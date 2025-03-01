@@ -30,9 +30,7 @@
   ![Planetscale](https://img.shields.io/badge/-Planetscale-333333?style=flat&logo=planetscale)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)
-  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=intellijidea)
 
 <br/>
 
